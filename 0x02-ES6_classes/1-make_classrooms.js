@@ -8,3 +8,4 @@ export default function initializeRooms() {
   ];
   return (arr);
 }
+
