@@ -1,4 +1,4 @@
 #!/bin/bash
 git add .
-git commit -m "Filter"
+git commit -m "Reduce"
 git push
