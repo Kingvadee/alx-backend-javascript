@@ -1,4 +1,4 @@
 #!/bin/bash
 git add .
-git commit -m "Basic list of objects"
+git commit -m "More mapping"
 git push
