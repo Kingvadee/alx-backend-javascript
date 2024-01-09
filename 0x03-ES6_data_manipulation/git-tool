@@ -1,4 +1,4 @@
 #!/bin/bash
 git add .
-git commit -m "Reduce"
+git commit -m "Combine"
 git push
