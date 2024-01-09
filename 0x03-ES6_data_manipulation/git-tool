@@ -1,4 +1,4 @@
 #!/bin/bash
 git add .
-git commit -m "Set data structure"
+git commit -m "More Set data structure"
 git push
