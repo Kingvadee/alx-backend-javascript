@@ -44,3 +44,4 @@ studentsList.forEach((student) => {
 
 table.append(tbody);
 body.append(table);
+
