@@ -1,4 +1,5 @@
 #!/bin/bash
-git add .
-git commit -m "README File"
+# Author: Ojeifo David
+git add # file name
+git commit -m " #comment/commit message"
 git push
