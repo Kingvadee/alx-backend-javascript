@@ -1,0 +1,13 @@
+#!/bin/bash
+# Remove the current lock file
+rm package-lock.json
+
+# Clear the npm cache
+npm cache clean --force
+
+# Install the dependencies
+npm install
+
+# Build work 
+npm run build
+
