@@ -1,0 +1,4 @@
+#!/bin/bash
+git add .
+git commit -m "Weak Link Data Structure"
+git push
