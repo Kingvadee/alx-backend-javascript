@@ -177,6 +177,7 @@ Verify that the stub is being called with type = SUM, a = 100, and b = 20
 Add a spy to verify that console.log is logging the correct message The total is: 10
 Requirements:
 
+For this task first run `npm install stub` before you test your code with `npm test 4-payment.test.js`
 You should be able to run the test suite using npm test 4-payment.test.js
 Every test should pass without any warning
 You should use a stub to complete this exercise
