@@ -4,6 +4,8 @@ Allowed editors: vi, vim, emacs, Visual Studio Code
 All your files should end with a new line
 A README.md file, at the root of the folder of the project, is mandatory
 Your code should use the js extension
+Use `npm install --save-dev mocha` to install mocha
+When you successfully install mocha npm creats a lockfile as package-lock.json. You should commit the file.
 When running every test with npm run test *.test.js, everything should pass correctly without any warning or error
 Tasks
 0. Basic test with Mocha and Node assertion library
