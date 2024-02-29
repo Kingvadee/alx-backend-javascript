@@ -148,6 +148,7 @@ Create a new file named 3-payment.test.js and add a new suite named sendPaymentR
 By using sinon.spy, make sure the math used for sendPaymentRequestToApi(100, 20) is the same as Utils.calculateNumber('SUM', 100, 20) (validate the usage of the Utils function)
 Requirements:
 
+For this task first run `npm install sinon` before you test your code with `npm test 3-payment.test.js`
 You should be able to run the test suite using npm test 3-payment.test.js
 Every test should pass without any warning
 You should use a spy to complete this exercise
