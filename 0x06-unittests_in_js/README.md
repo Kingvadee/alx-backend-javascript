@@ -119,6 +119,7 @@ Tips:
 Remember that test coverage is always difficult to maintain. Using an easier style for your tests will help you
 The easier your tests are to read and understand, the more other engineers will be able to fix them when they are modifying your code
 Requirements:
+For this task first run `npm install chai` before you test your code with `npm test 2-calcul_chai.test.js`
 
 You should be able to run the test suite using npm test 2-calcul_chai.test.js
 Every test should pass without any warning
